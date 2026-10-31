@@ -1,0 +1,38 @@
+[
+    {
+        "code": "001",
+        "name": "Apple",
+        "price": 0.5,
+        "stock": 10
+    },
+    {
+        "code": "002",
+        "name": "Banana",
+        "price": 0.3,
+        "stock": 100
+    },
+    {
+        "code": "003",
+        "name": "Orange",
+        "price": 0.8,
+        "stock": 100
+    },
+    {
+        "code": "004",
+        "name": "Milk",
+        "price": 1.2,
+        "stock": 46
+    },
+    {
+        "code": "005",
+        "name": "Bread",
+        "price": 1.0,
+        "stock": 50
+    },
+    {
+        "code": "006",
+        "name": "coffee",
+        "price": 10.0,
+        "stock": 40
+    }
+]

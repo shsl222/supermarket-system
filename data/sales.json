@@ -1,0 +1,65 @@
+[
+    {
+        "transaction_id": "0B9F2F4C",
+        "date": "2026-10-31 11:49:00",
+        "items": [
+            {
+                "code": "004",
+                "name": "Milk",
+                "price": 1.2,
+                "quantity": 4,
+                "total": 4.8
+            }
+        ],
+        "subtotal": 4.8,
+        "discount_rate": 20,
+        "discount": 0.96,
+        "tax_rate": 7.0,
+        "tax": 0.27,
+        "total": 4.11,
+        "paid": 20.0,
+        "change": 15.89
+    },
+    {
+        "transaction_id": "90D4DDB5",
+        "date": "2026-10-31 11:51:36",
+        "items": [
+            {
+                "code": "006",
+                "name": "coffee",
+                "price": 10.0,
+                "quantity": 60,
+                "total": 600.0
+            }
+        ],
+        "subtotal": 600.0,
+        "discount_rate": 20,
+        "discount": 120.0,
+        "tax_rate": 7.0,
+        "tax": 33.6,
+        "total": 513.6,
+        "paid": 1000.0,
+        "change": 486.4
+    },
+    {
+        "transaction_id": "0D41A307",
+        "date": "2026-10-31 11:53:28",
+        "items": [
+            {
+                "code": "001",
+                "name": "Apple",
+                "price": 0.5,
+                "quantity": 90,
+                "total": 45.0
+            }
+        ],
+        "subtotal": 45.0,
+        "discount_rate": 0,
+        "discount": 0.0,
+        "tax_rate": 7.0,
+        "tax": 3.15,
+        "total": 48.15,
+        "paid": 48.15,
+        "change": 0.0
+    }
+]
